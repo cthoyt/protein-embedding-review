@@ -8,6 +8,7 @@
   potential: true
   code: true
 - github: tbepler/protein-sequence-embedding-iclr2019
+  arxiv: 1902.08661
   title: "Learning protein sequence embeddings using information from structure"
   pdf: https://openreview.net/pdf?id=SygLehCqtm
   author: Bepler
@@ -26,10 +27,16 @@
   github: fhalab/embeddings_reproduction
 - title: "Single-sequence protein structure prediction using language models from deep learning"
   author: Chowdhury
+  doi: 10.1101/2021.08.02.454840
+  biorxiv: 2021.08.02.454840
   year: 2021
   code: false
 - github: Rostlab/SeqVec
   title: "Modeling aspects of the language of life through transfer-learning protein sequences"
   author: Heinzinger
   year: 2019
+  biorxiv: 614313
+  doi: 10.1186/s12859-019-3220-8
+  pubmed: 31847804
+  pmc: PMC6918593
   code: true
