@@ -24,13 +24,13 @@ You can contribute to this list in one of the following ways:
 <strong>
 {% if entry.pdf %}
 <a href="{{ entry.pdf }}">{{ entry.title }}</a>
-{% elif entry.doi %}
+{% elsif entry.doi %}
 <a href="https://bioregistry.io/doi:{{ entry.doi }}">{{ entry.title }}</a>
-{% elif entry.arxiv %}
+{% elsif entry.arxiv %}
 <a href="https://bioregistry.io/arxiv:{{ entry.arxiv }}">{{ entry.title }}</a>
-{% elif entry.pubmed %}
+{% elsif entry.pubmed %}
 <a href="https://bioregistry.io/pubmed:{{ entry.pubmed }}">{{ entry.title }}</a>
-{% elif entry.pmc %}
+{% elsif entry.pmc %}
 <a href="https://bioregistry.io/pmc:{{ entry.pmc }}">{{ entry.title }}</a>
 {% endif %}
 </strong>
