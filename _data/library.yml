@@ -40,3 +40,15 @@
   pubmed: 31847804
   pmc: PMC6918593
   code: true
+- github: stamakro/GCN-for-Structure-and-Function
+  title: "Unsupervised protein embeddings outperform hand-crafted sequence and structure features at predicting molecular function"
+  author: Villegas-Morcillo
+  year: 2021
+  doi: 10.1093/bioinformatics/btaa701
+  biorxiv: 2020.04.07.028373
+  code: true
+- github: agemagician/ProtTrans
+  title: "ProtTrans: cracking the language of life’s code through self-supervised deep learning and high performance computing"
+  author: Elnaggar
+  year: 2021
+  code: true
