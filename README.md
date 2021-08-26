@@ -10,3 +10,9 @@ You can contribute to this list in one of the following ways:
 1. [Add a paper](https://github.com/cthoyt/protein-embedding-review/edit/main/_data/library.yml)
    through the GitHub editor
 2. [Make an issue](https://github.com/cthoyt/protein-embedding-review/issues/new) with a suggestion
+
+## License
+
+Content in this repository is available under
+the [CC0 1.0 Universal](https://github.com/cthoyt/protein-embedding-review/blob/main/LICENSE)
+license.
