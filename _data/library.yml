@@ -1,54 +1,58 @@
-- title: "Learning the protein language: evolution, structure, and function"
-  author: Bepler
-  year: 2021
+- author: Bepler
+  code: true
   doi: 10.1016/j.cels.2021.05.017
   github: tbepler/prose
   packaged: false
-  reusable: false
   potential: true
-  code: true
-- github: tbepler/protein-sequence-embedding-iclr2019
-  arxiv: 1902.08661
-  title: "Learning protein sequence embeddings using information from structure"
-  pdf: https://openreview.net/pdf?id=SygLehCqtm
-  author: Bepler
-  year: 2019
-  packaged: false
   reusable: false
-  potential: false
-  code: true
-- pmc: PMC6061698
-  pubmed: 29584811
-  doi: 10.1093/bioinformatics/bty178
-  title: Learned protein embeddings for machine learning
-  author: Yang
-  year: 2018
-  code: true
-  github: fhalab/embeddings_reproduction
-- title: "Single-sequence protein structure prediction using language models from deep learning"
-  author: Chowdhury
-  doi: 10.1101/2021.08.02.454840
+  title: 'Learning the protein language: evolution, structure, and function'
+  year: 2021
+- author: Chowdhury
   biorxiv: 2021.08.02.454840
-  year: 2021
   code: false
-- github: Rostlab/SeqVec
-  title: "Modeling aspects of the language of life through transfer-learning protein sequences"
-  author: Heinzinger
-  year: 2019
-  biorxiv: 614313
-  doi: 10.1186/s12859-019-3220-8
-  pubmed: 31847804
-  pmc: PMC6918593
-  code: true
-- github: stamakro/GCN-for-Structure-and-Function
-  title: "Unsupervised protein embeddings outperform hand-crafted sequence and structure features at predicting molecular function"
-  author: Villegas-Morcillo
+  doi: 10.1101/2021.08.02.454840
+  title: Single-sequence protein structure prediction using language models from deep
+    learning
   year: 2021
-  doi: 10.1093/bioinformatics/btaa701
+- author: Villegas-Morcillo
   biorxiv: 2020.04.07.028373
   code: true
-- github: agemagician/ProtTrans
-  title: "ProtTrans: cracking the language of life’s code through self-supervised deep learning and high performance computing"
-  author: Elnaggar
+  doi: 10.1093/bioinformatics/btaa701
+  github: stamakro/GCN-for-Structure-and-Function
+  title: Unsupervised protein embeddings outperform hand-crafted sequence and structure
+    features at predicting molecular function
   year: 2021
+- author: Elnaggar
   code: true
+  github: agemagician/ProtTrans
+  title: "ProtTrans: cracking the language of life's code through self-supervised\
+    \ deep learning and high performance computing"
+  year: 2021
+- arxiv: 1902.08661
+  author: Bepler
+  code: true
+  github: tbepler/protein-sequence-embedding-iclr2019
+  packaged: false
+  pdf: https://openreview.net/pdf?id=SygLehCqtm
+  potential: false
+  reusable: false
+  title: Learning protein sequence embeddings using information from structure
+  year: 2019
+- author: Heinzinger
+  biorxiv: 614313
+  code: true
+  doi: 10.1186/s12859-019-3220-8
+  github: Rostlab/SeqVec
+  pmc: PMC6918593
+  pubmed: 31847804
+  title: Modeling aspects of the language of life through transfer-learning protein
+    sequences
+  year: 2019
+- author: Yang
+  code: true
+  doi: 10.1093/bioinformatics/bty178
+  github: fhalab/embeddings_reproduction
+  pmc: PMC6061698
+  pubmed: 29584811
+  title: Learned protein embeddings for machine learning
+  year: 2018
