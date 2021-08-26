@@ -1,0 +1,35 @@
+- title: "Learning the protein language: evolution, structure, and function"
+  author: Bepler
+  year: 2021
+  doi: 10.1016/j.cels.2021.05.017
+  github: tbepler/prose
+  packaged: false
+  reusable: false
+  potential: true
+  code: true
+- github: tbepler/protein-sequence-embedding-iclr2019
+  title: "Learning protein sequence embeddings using information from structure"
+  pdf: https://openreview.net/pdf?id=SygLehCqtm
+  author: Bepler
+  year: 2019
+  packaged: false
+  reusable: false
+  potential: false
+  code: true
+- pmc: PMC6061698
+  pubmed: 29584811
+  doi: 10.1093/bioinformatics/bty178
+  title: Learned protein embeddings for machine learning
+  author: Yang
+  year: 2018
+  code: true
+  github: fhalab/embeddings_reproduction
+- title: "Single-sequence protein structure prediction using language models from deep learning"
+  author: Chowdhury
+  year: 2021
+  code: false
+- github: Rostlab/SeqVec
+  title: "Modeling aspects of the language of life through transfer-learning protein sequences"
+  author: Heinzinger
+  year: 2019
+  code: true
